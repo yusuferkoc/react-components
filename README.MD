@@ -1,1 +1,1 @@
-# flashing animated red dot
+# chakra ui flashing animated red dot
